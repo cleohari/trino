@@ -30,7 +30,7 @@ jinja2==2.11.1
     # via
     #   myst-parser
     #   sphinx
-lxml==4.5.2
+lxml==4.6.3
     # via sphinx-material
 markdown-it-py==2.1.0
     # via
